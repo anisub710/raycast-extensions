@@ -18,7 +18,7 @@
   "commands": [
     {
       "name": "whosampled",
-      "title": "WhoSampled",
+      "title": "WhoSampled Spotify",
       "description": "Search WhoSampled.com from the currently playing song in Spotify",
       "mode": "no-view"
     },
